@@ -104,7 +104,8 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <p>Apple Music Recently Added</p>
+  <img src="https://apple-music-readme-pi.vercel.app/?">
 </div>
 
 ###
