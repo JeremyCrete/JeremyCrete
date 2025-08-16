@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Jeremy Crete a 3rd year Software Engineering Student at Concordia University</h2>
+<h2 align="left">Hi 👋, I'm Jeremy Crete a 4th year Software Engineering Student at Concordia University</h2>
 
 ###
 
